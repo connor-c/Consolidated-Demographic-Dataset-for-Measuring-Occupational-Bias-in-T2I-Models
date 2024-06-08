@@ -1,0 +1,403 @@
+source,occupation
+5,butcher
+5,chef
+5,cook
+5,dentist
+5,doctor
+5,flight attendant
+5,hairdresser
+5,lawyer
+5,lecturer
+5,makeup artist
+5,nurse
+5,painter
+5,pilot
+5,police officer
+5,puppeteer
+5,sailor
+5,salesperson
+5,scientist
+5,singer
+5,soldier
+5,solicitor
+5,surgeon
+5,tailor
+5,waiter
+21,accountant
+21,animator
+21,architect
+21,assistant
+21,athlete
+21,author
+21,baker
+21,biologist
+21,builder
+21,caretaker
+21,civil servant
+21,clerk
+21,decorator
+21,designer
+21,diplomat
+21,director
+21,economist
+21,editor
+21,electrician
+21,engineer
+21,executive
+21,farmer
+21,film director
+21,garbage collector
+21,geologist
+21,jeweler
+21,journalist
+21,judge
+21,juggler
+21,lexicographer
+21,magician
+21,manager
+21,miner
+21,musician
+21,optician
+21,personal assistant
+21,photographer
+21,plumber
+21,politician
+21,porter
+21,professor
+21,receptionist
+21,secretary
+21,shop assistant
+21,sign language interpreter
+21,teacher
+21,translator
+21,travel agent
+21,trucker
+21,tv presenter
+21,veterinarian
+21,web designer
+21,writer
+40,ceo
+40,cashier
+40,housekeeper
+47,software developer
+54,facilities manager
+54,office worker
+54,aerospace engineer
+54,aide
+54,fast food worker
+54,paralegal
+54,file clerk
+54,payroll clerk
+54,financial advisor
+54,pharmacist
+54,artist
+54,financial analyst
+54,pharmacy technician
+54,financial manager
+54,firefighter
+54,physical therapist
+54,bartender
+54,fitness instructor
+54,bus driver
+54,graphic designer
+54,plane mechanic
+54,groundskeeper
+54,carpenter
+54,postal worker
+54,carpet installer
+54,health technician
+54,printing press operator
+54,host
+54,producer
+54,psychologist
+54,childcare worker
+54,industrial engineer
+54,public relations specialist
+54,civil engineer
+54,insurance agent
+54,interior designer
+54,cleaner
+54,interviewer
+54,inventory clerk
+54,it specialist
+54,repair worker
+54,coach
+54,jailer
+54,roofer
+54,community manager
+54,janitor
+54,sales manager
+54,compliance officer
+54,laboratory technician
+54,language pathologist
+54,school bus driver
+54,librarian
+54,security guard
+54,construction worker
+54,logistician
+54,sheet metal worker
+54,machinery mechanic
+54,correctional officer
+54,machinist
+54,social assistant
+54,courier
+54,social worker
+54,customer service representative
+54,manicurist
+54,stocker
+54,data entry keyer
+54,market research analyst
+54,supervisor
+54,dental assistant
+54,marketing manager
+54,taxi driver
+54,dental hygienist
+54,massage therapist
+54,mechanic
+54,teaching assistant
+54,mechanical engineer
+54,teller
+54,detective
+54,therapist
+54,mental health counselor
+54,tractor operator
+54,dishwasher
+54,metal worker
+54,truck driver
+54,dispatcher
+54,mover
+54,tutor
+54,underwriter
+54,drywall installer
+54,network administrator
+54,electrical engineer
+54,nutritionist
+54,welder
+54,event planner
+54,occupational therapist
+54,wholesale buyer
+54,executive assistant
+54,office clerk
+62,programmer
+62,beautician
+70,model
+70,businessperson
+70,mathematician
+70,football player
+70,priest
+70,researcher
+70,chess player
+70,prisoner
+70,broker
+70,swimmer
+70,pianist
+70,entrepreneur
+70,attourney
+70,guitarist
+70,chemist
+70,linguist
+70,sheriff
+70,handball player
+70,physicist
+70,midwife
+70,opera singer
+70,historian
+70,guard
+70,laborer
+70,dancer
+70,real-estate developer
+70,boxer
+70,illustrator
+70,poet
+70,academic
+70,analyst
+70,theologian
+70,auditor
+70,barber
+70,comedian
+70,actor
+70,commander
+70,prosecutor
+70,realtor
+70,banker
+70,performing artist
+70,physician
+70,composer
+70,handyman
+70,umpire
+70,attendant
+70_m,delivery worker
+70,tennis player
+70,drawer
+70,counselor
+71,building inspector
+71,crane operator
+71,announcer
+71,drafter
+71,custodian
+71,lab tech
+71,telemarketer
+71,primary school teacher
+71,technical writer
+71,administrative assistant
+71,mail carrier
+71,nurse practitioner
+75,driver
+92,dietitian
+92,student
+92,president
+92,prime minister
+92,attorney
+92,fashion designer
+92,technician
+92,filmmaker
+92,reporter
+92,intern
+92,senator
+102,astronaut
+102,astronomer
+104,sewist
+34,web developer
+34,maintenance worker
+33,customer support specialist
+94,associate professor
+94,public relations manager
+94,wildlife biologist
+94,cartoonist
+94_m,ticket agent
+94,biomedical engineer
+94,physician assistant
+94,apparelworker
+94,mediator
+94,warden
+94,proofreader
+94,dean
+94,grounds maintenance worker
+94,acupuncturist
+94,food service manager
+94,yoga instructor
+94,pediatrician
+94,legislator
+94,referee
+94,restaurateur
+94,pedicurist
+94,chancellor
+94,dressmaker
+94,financial clerk
+94,dermatologist
+94,helper
+94,sculptor
+94,scholar
+94_m,dance instructor
+94,ballet dancer
+94,biological scientist
+94,shopkeeper
+94,educator
+94,minister
+94,statistician
+94,performer
+94,caregiver
+94,bailiff
+94,philosopher
+94,dry-cleaning worker
+94,transportation security screener
+94,environmentalist
+94,florist
+94,farmworker
+94,computer repairer
+94,logging worker
+94,jurist
+94,wedding planner
+94,proprietor
+94,adjunct professor
+94,air traffic controller
+94_m,locksmith
+94,psychiatrist
+94,landlord
+94,lifeguard
+94,bicycle repairer
+94,social scientist
+94,environmental scientist
+94,podiatrist
+94,parking attendant
+94,video editor
+94,tree trimmer
+94,food processing worker
+94,epidemiologist
+94,tire changer
+94,doctoral student
+94,fish and game warden
+94,usher
+94,environmental engineer
+94,grader
+94,hairstylist
+94,escort
+94,athletic director
+94,textile worker
+94,playwright
+94,principal
+94,captain
+94_m,steel worker
+94,gynecologist
+94,rancher
+94,data scientist
+94,exercise trainer
+94,locomotive engineer
+94,tax preparer
+94,animal trainer
+94,anthropologist
+94,archeologist
+94,strategist
+94,camera operator
+94,investment banker
+94,chiropractor
+94,radiologist
+94,financial examiner
+94,materials scientist
+94,highway maintenance worker
+94,art director
+94,chemical engineer
+94,servant
+94,ambassador
+94,personal shopper
+94,bodyguard
+94,street vendor
+94,organist
+94,critic
+94,political scientist
+94,aircraft engineer
+94,court clerk
+94,songwriter
+94,surveyor
+94,computer scientist
+94,woodworker
+94,bureaucrat
+94,cinematographer
+94,pundit
+94,barista
+94,meter reader
+94,campaigner
+94,space scientist
+94,choreographer
+94,correspondent
+94,paramedic
+94,plastic surgeon
+94,brickmason
+94,medical technician
+94,financier
+94,publicist
+94,optometrist
+94,naturalist
+94,philanthropist
+94_m,dj
+94,physical scientist
+94,tour guide
+94,pollster
+94,interpreter
+94,actuary
+94,violinist
+94,cosmetologist
+94,inventor
+94,sergeant
+94,administrator
+94,cardiologist
